@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HarmonyCraft Documents</title>
+    <link>http://localhost:11493/</link>
+    <description>Recent content on HarmonyCraft Documents</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>Copyright © 2022 - 2024 HarmonyCraft. All Rights Reserved. 花梦工艺 版权所有</copyright>
+    <lastBuildDate>Mon, 19 Aug 2024 16:13:33 +0800</lastBuildDate>
+    <atom:link href="http://localhost:11493/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temp</title>
+      <link>http://localhost:11493/post/temp/</link>
+      <pubDate>Mon, 19 Aug 2024 16:13:33 +0800</pubDate>
+      <guid>http://localhost:11493/post/temp/</guid>
+      <description>Hello World!</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:11493/post/test/</link>
+      <pubDate>Mon, 19 Aug 2024 15:34:15 +0800</pubDate>
+      <guid>http://localhost:11493/post/test/</guid>
+      <description>Test 测试 #这是一篇测试</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:11493/about/</link>
+      <pubDate>Mon, 19 Aug 2024 15:33:54 +0800</pubDate>
+      <guid>http://localhost:11493/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
